@@ -1,1 +1,1 @@
-deploed Link ==> https://south-paradise.netlify.app/
+ Link ==> https://south-paradise.netlify.app/
